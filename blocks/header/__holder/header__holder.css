@@ -1,0 +1,5 @@
+.header__holder {
+  display: flex;
+  align-items: center;
+  gap: 38px;
+}
