@@ -4,6 +4,7 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/container/container.css);
 @import url(../blocks/logo/logo.css);
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__wrapper/header__wrapper.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -20,5 +21,12 @@
 @import url(../blocks/promo/__slogan-lead/promo__slogan-lead.css);
 @import url(../blocks/promo/__descr/promo__descr.css);
 @import url(../blocks/promo/__descr-lead/promo__descr-lead.css);
+
 @import url(../blocks/form/form.css);
 @import url(../blocks/form/__input/form__input.css);
+
+@import url(../blocks/brands/brands.css);
+@import url(../blocks/brands/__title/brands__title.css);
+@import url(../blocks/brands/__img-wrapper/brands__img-wrapper.css);
+
+@import url(../blocks/customers/customers.css);
