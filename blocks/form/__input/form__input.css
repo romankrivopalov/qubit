@@ -1,0 +1,30 @@
+.form__input {
+  margin: 0 -4px 0 0;
+  padding: 0 26px 0 26px;
+  width: 268px;
+  height: 43px;
+  font-size: 15px;
+  line-height: 21px;
+  border: 1px solid var(--color-main);
+  border-radius: 27px 0 0 27px;
+}
+
+.form__input:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+
+.form__input::-webkit-input-placeholder {
+  opacity: .27;
+}
+
+.form__input::-moz-placeholder {
+  opacity: .27;
+}
+
+.form__input:-moz-placeholder {
+  opacity: .27;
+}
+.form__input:-ms-input-placeholder {
+  opacity: .27;
+}

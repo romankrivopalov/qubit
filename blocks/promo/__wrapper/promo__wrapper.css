@@ -1,0 +1,8 @@
+.promo__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 500px;
+  height: 100vh;
+  z-index: 4;
+}

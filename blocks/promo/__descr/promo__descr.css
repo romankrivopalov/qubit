@@ -1,0 +1,8 @@
+.promo__descr {
+  margin: 0;
+  padding-top: 24px;
+  max-width: 440px;
+  font-size: 18px;
+  line-height: 30px;
+  z-index: 2;
+}

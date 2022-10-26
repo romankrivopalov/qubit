@@ -9,4 +9,16 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__holder/header__holder.css);
+
 @import url(../blocks/button/button.css);
+@import url(../blocks/button/_place/button_place_promo.css);
+
+@import url(../blocks/promo/promo.css);
+@import url(../blocks/promo/__wrapper/promo__wrapper.css);
+@import url(../blocks/promo/__title/promo__title.css);
+@import url(../blocks/promo/__slogan/promo__slogan.css);
+@import url(../blocks/promo/__slogan-lead/promo__slogan-lead.css);
+@import url(../blocks/promo/__descr/promo__descr.css);
+@import url(../blocks/promo/__descr-lead/promo__descr-lead.css);
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__input/form__input.css);
