@@ -1,0 +1,12 @@
+.faster__link {
+  margin: 0;
+  padding-top: 12px;
+  display: block;
+  width: 111px;
+  font-size: 15px;
+  line-height: 15px;
+  font-weight: normal;
+  text-decoration: none;
+  border-bottom: 1px solid #000;
+  color: #000;
+}

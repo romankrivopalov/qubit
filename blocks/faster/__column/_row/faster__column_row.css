@@ -1,0 +1,5 @@
+.faster__column_row {
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+}

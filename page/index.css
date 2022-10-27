@@ -30,3 +30,14 @@
 @import url(../blocks/brands/__img-wrapper/brands__img-wrapper.css);
 
 @import url(../blocks/customers/customers.css);
+@import url(../blocks/customers/_place/customers_place_holder.css);
+
+@import url(../blocks/faster/faster.css);
+@import url(../blocks/faster/__wrapper/faster__wrapper.css);
+@import url(../blocks/faster/__column/faster__column.css);
+@import url(../blocks/faster/__title/faster__title.css);
+@import url(../blocks/faster/__item/faster__item.css);
+@import url(../blocks/faster/__column/_row/faster__column_row.css);
+@import url(../blocks/faster/__text/faster__text.css);
+@import url(../blocks/faster/__holder/faster__holder.css);
+@import url(../blocks/faster/__link/faster__link.css);

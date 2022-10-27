@@ -1,0 +1,8 @@
+.faster__column {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 620px;
+}
