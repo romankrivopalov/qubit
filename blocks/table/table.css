@@ -1,8 +1,9 @@
-.commerce__wrapper {
+.table {
   margin: 0;
   padding: 0;
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 72px;
   padding-top: 46px;
   list-style: none;

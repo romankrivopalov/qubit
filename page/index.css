@@ -44,10 +44,12 @@
 @import url(../blocks/faster/__link/faster__link.css);
 
 @import url(../blocks/commerce/commerce.css);
-@import url(../blocks/commerce/__wrapper/commerce__wrapper.css);
-@import url(../blocks/commerce/__item/commerce__item.css);
-@import url(../blocks/commerce/__item-title/commerce__item-title.css);
-@import url(../blocks/commerce/__item-text/commerce__item-text.css);
+
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__item/table__item.css);
+@import url(../blocks/table/__item-img/table__item-img.css);
+@import url(../blocks/table/__item-title/table__item-title.css);
+@import url(../blocks/table/__item-text/table__item-text.css);
 
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
@@ -55,3 +57,5 @@
 @import url(../blocks/collaboration/collaboration.css);
 @import url(../blocks/collaboration/__img/collaboration__img.css);
 @import url(../blocks/collaboration/__btns/collaboration__btns.css);
+
+@import url(../blocks/opportunity/opportunity.css);
