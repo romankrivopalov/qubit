@@ -1,0 +1,9 @@
+.slider__item-descr {
+  margin: 0 55px 0 55px;
+  padding-top: 25px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+  color: var(--color-main);
+}

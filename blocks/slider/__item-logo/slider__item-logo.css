@@ -1,0 +1,6 @@
+.slider__item-logo {
+  display: block;
+  padding-top: 25px;
+  height: 35px;
+  object-fit: contain;
+}

@@ -1,0 +1,8 @@
+.slider__item-img {
+  display: inline-block;
+  width: 320px;
+  height: 205px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 7px 7px 0px 0px;
+}

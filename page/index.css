@@ -59,3 +59,14 @@
 @import url(../blocks/collaboration/__btns/collaboration__btns.css);
 
 @import url(../blocks/opportunity/opportunity.css);
+
+@import url(../blocks/trust/trust.css);
+
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slider/__btns/slider__btns.css);
+@import url(../blocks/slider/__wrapper/slider__wrapper.css);
+@import url(../blocks/slider/__items/slider__items.css);
+@import url(../blocks/slider/__item/slider__item.css);
+@import url(../blocks/slider/__item-img/slider__item-img.css);
+@import url(../blocks/slider/__item-logo/slider__item-logo.css);
+@import url(../blocks/slider/__item-descr/slider__item-descr.css);

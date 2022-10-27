@@ -1,0 +1,9 @@
+.slider__btns {
+  position: absolute;
+  top: 263px;
+  left: 50%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateX(-50%);
+  width: 1120px;
+}
