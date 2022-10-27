@@ -1,0 +1,6 @@
+.collaboration__btns {
+  padding-top: 76px;
+  display: flex;
+  justify-content: center;
+  gap: 22px;
+}

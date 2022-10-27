@@ -13,6 +13,7 @@
 
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/_place/button_place_promo.css);
+@import url(../blocks/button/_place/button_place_collaboration.css);
 
 @import url(../blocks/promo/promo.css);
 @import url(../blocks/promo/__wrapper/promo__wrapper.css);
@@ -41,3 +42,16 @@
 @import url(../blocks/faster/__text/faster__text.css);
 @import url(../blocks/faster/__holder/faster__holder.css);
 @import url(../blocks/faster/__link/faster__link.css);
+
+@import url(../blocks/commerce/commerce.css);
+@import url(../blocks/commerce/__wrapper/commerce__wrapper.css);
+@import url(../blocks/commerce/__item/commerce__item.css);
+@import url(../blocks/commerce/__item-title/commerce__item-title.css);
+@import url(../blocks/commerce/__item-text/commerce__item-text.css);
+
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+
+@import url(../blocks/collaboration/collaboration.css);
+@import url(../blocks/collaboration/__img/collaboration__img.css);
+@import url(../blocks/collaboration/__btns/collaboration__btns.css);

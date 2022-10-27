@@ -1,0 +1,17 @@
+.commerce__item {
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+.commerce__item:nth-child(1) {
+  background-image: url('/images/commerce/commerce-icon-1.png');
+}
+
+.commerce__item:nth-child(2) {
+  background-image: url('/images/commerce/commerce-icon-2.png');
+}
+
+.commerce__item:nth-child(3) {
+  background-image: url('/images/commerce/commerce-icon-3.png');
+}
+
