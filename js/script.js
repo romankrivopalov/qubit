@@ -5,24 +5,16 @@ let slideIndex = 1,
     offset = 0;
 
 const slides = document.querySelectorAll('.slider__item'),
-      prev = document.getAttribute('prev'),
-      next = document.getAttribute('next'),
-      total = document.querySelector('#total'),
-      slidesWrapper = document.querySelector('.header__slider-wrapper'),
-      slidesField = document.querySelector('.header__slider-items'),
+      prev = document.querySelector('.slider__btn-prev'),
+      next = document.querySelector('.slider__btn-next'),
+      slidesWrapper = document.querySelector('.slider__wrapper'),
+      slidesField = document.querySelector('.slider__items'),
       width = window.getComputedStyle(slidesWrapper).width;
 
-console.log(prev);
-
-slidesField.style.width = 100 * slides.length + '%';
 slidesField.style.transition = '0.5s all ease-in-out';
 
-slides.forEach(slide => {
-  slide.style.width = width;
-});
-
 next.addEventListener('click', () => {
-  if (offset == +width.slice(0, width.length - 2) * (slides.length - 1)) {
+  if (offset == +width.slice(0, width.length - 2) * (Math.ceil(slides.length / 3) - 1)) {
     offset = 0;
   } else {
     offset += +width.slice(0, width.length - 2);
@@ -39,7 +31,7 @@ next.addEventListener('click', () => {
 
 prev.addEventListener('click', () => {
   if (offset == 0) {
-    offset = +width.slice(0, width.length - 2) * (slides.length - 1);
+    offset = +width.slice(0, width.length - 2) * (Math.ceil(slides.length / 3) - 1);
   } else {
     offset -= +width.slice(0, width.length - 2);
   }

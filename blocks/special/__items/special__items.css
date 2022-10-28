@@ -1,0 +1,9 @@
+.special__items {
+  margin: 0;
+  padding: 65px 0 0 0;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  list-style: none;
+}

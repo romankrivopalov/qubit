@@ -1,0 +1,18 @@
+.special__link {
+  position: absolute;
+  left: 30px;
+  bottom: 22px;
+  margin: 0;
+  padding: 0 40px 9px 0;
+  font-size: 15px;
+  line-height: 15px;
+  color: #fff;
+  border-bottom: 2px solid #fff;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+.special__link:hover {
+  color: var(--color-pink);
+  border-bottom: 2px solid #fff;
+}
