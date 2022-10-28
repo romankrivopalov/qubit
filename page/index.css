@@ -24,6 +24,7 @@
 @import url(../blocks/promo/__descr-lead/promo__descr-lead.css);
 
 @import url(../blocks/form/form.css);
+@import url(../blocks/form/_place/form_place_demo.css);
 @import url(../blocks/form/__input/form__input.css);
 
 @import url(../blocks/brands/brands.css);
@@ -53,6 +54,7 @@
 
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/_place/section-title_place_eco.css);
+@import url(../blocks/section-title/_place/section-title_place_demo.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 
 @import url(../blocks/collaboration/collaboration.css);
@@ -85,3 +87,12 @@
 @import url(../blocks/eco/eco.css);
 @import url(../blocks/eco/__img/eco__img.css);
 @import url(../blocks/eco/__text/eco__text.css);
+
+@import url(../blocks/demo/demo.css);
+
+@import url(../blocks/reward/reward.css);
+@import url(../blocks/reward/__img/reward__img.css);
+@import url(../blocks/reward/__title/reward__title.css);
+@import url(../blocks/reward/__social/reward__social.css);
+@import url(../blocks/reward/__social-link/reward__social-link.css);
+@import url(../blocks/reward/__social-icon/reward__social-icon.css);
