@@ -1,4 +1,6 @@
 .footer__wrapper {
+  margin: 0 54px;
+  padding: 0 0 40px 0;
   display: flex;
   justify-content: space-between;
 }

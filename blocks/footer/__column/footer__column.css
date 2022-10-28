@@ -1,4 +1,9 @@
 .footer__column {
   margin: 0;
   padding: 0;
+  width: 192px;
+}
+
+.footer__column:first-child {
+  flex-grow: 2;
 }
