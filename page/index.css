@@ -96,3 +96,9 @@
 @import url(../blocks/reward/__social/reward__social.css);
 @import url(../blocks/reward/__social-link/reward__social-link.css);
 @import url(../blocks/reward/__social-icon/reward__social-icon.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__wrapper/footer__wrapper.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column-title/footer__column-title.css);
+@import url(../blocks/footer/__column-items/footer__column-items.css);

@@ -2,6 +2,6 @@
   position: relative;
   width: 460px;
   min-height: 199px;
-  background-color: #17002E;
+  background-color: var(--color-purple);
   border-radius: 8px 10px 10px 8px;
 }

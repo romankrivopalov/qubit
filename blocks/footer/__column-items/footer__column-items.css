@@ -1,0 +1,9 @@
+.footer__column-items {
+  margin: 0;
+  padding: 22px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 246px;
+  list-style: none;
+}
