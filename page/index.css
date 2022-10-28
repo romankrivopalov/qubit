@@ -52,6 +52,7 @@
 @import url(../blocks/table/__item-text/table__item-text.css);
 
 @import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_place/section-title_place_eco.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 
 @import url(../blocks/collaboration/collaboration.css);
@@ -80,3 +81,7 @@
 @import url(../blocks/special/__item-text/special__item-text.css);
 @import url(../blocks/special/__item/special__item.css);
 @import url(../blocks/special/__link/special__link.css);
+
+@import url(../blocks/eco/eco.css);
+@import url(../blocks/eco/__img/eco__img.css);
+@import url(../blocks/eco/__text/eco__text.css);
