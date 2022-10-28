@@ -1,6 +1,6 @@
 .demo {
   padding: 95px 0 100px 0;
-  background-image: url('/images/demo-bg.jpg');
+  background-image: url('../../images/demo-bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
